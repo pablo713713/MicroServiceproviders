@@ -12,29 +12,15 @@ using Providers.Infrastructure.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// =======================
-//  DB (singleton propio)
-// =======================
 DatabaseConnection.Initialize(builder.Configuration);
-
-// =======================
-//  MVC + Swagger
-// =======================
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
-// =======================
-//  DI Providers
-// =======================
 builder.Services.AddScoped<IRepository<Provider>, ProviderRepository>();
 builder.Services.AddScoped<IValidator<Provider>, ProviderValidator>();
 builder.Services.AddScoped<IProviderService, ProviderService>();
 
-// =======================
-//  JWT Auth
-//  (mismos valores que en User.Api → appsettings.json: Jwt:Key, Issuer, Audience)
-// =======================
+
 var jwtSection = builder.Configuration.GetSection("Jwt");
 var jwtKey = jwtSection["Key"] ?? throw new InvalidOperationException("Jwt:Key no configurado");
 var jwtIssuer = jwtSection["Issuer"];
@@ -63,9 +49,7 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
-// =======================
-//  Pipeline
-// =======================
+
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
@@ -75,8 +59,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthentication();   // 👈 primero autenticación
-app.UseAuthorization();    // 👈 luego autorización
+app.UseAuthentication();   
+app.UseAuthorization();    
 
 app.MapControllers();
 
