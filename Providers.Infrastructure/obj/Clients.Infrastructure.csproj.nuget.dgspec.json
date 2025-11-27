@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Clients.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj",
+        "projectName": "Providers.Application",
+        "projectPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj",
+        "packagesPath": "C:\\Users\\PABLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PABLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Clients.Domain.csproj": {
+                "projectPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Clients.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Clients.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Clients.Domain.csproj",
+        "projectName": "Clients.Domain",
+        "projectPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Clients.Domain.csproj",
+        "packagesPath": "C:\\Users\\PABLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PABLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Clients.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Clients.Infrastructure.csproj",
+        "projectName": "Clients.Infrastructure",
+        "projectPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Clients.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\PABLO\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PABLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj": {
+                "projectPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj"
+              },
+              "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Clients.Domain.csproj": {
+                "projectPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Clients.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentResults": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

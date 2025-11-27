@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|solutionrelative:providers.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.api\\providers.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|solutionrelative:providers.api\\providers.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.domain\\providers.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|solutionrelative:providers.domain\\providers.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.api\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|solutionrelative:providers.api\\controllers\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C759B9B-59CD-40BB-A3F7-41BBA67074BB}|Providers.Api\\Providers.Api.csproj|solutionrelative:providers.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988CA9CA-571A-4095-857D-472612C4E87C}|Providers.Infrastructure\\Providers.Infrastructure.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.infrastructure\\repository\\providerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988CA9CA-571A-4095-857D-472612C4E87C}|Providers.Infrastructure\\Providers.Infrastructure.csproj|solutionrelative:providers.infrastructure\\repository\\providerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.domain\\interfaces\\lvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|solutionrelative:providers.domain\\interfaces\\lvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|solutionrelative:providers.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.application\\services\\providerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|solutionrelative:providers.application\\services\\providerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.application\\interfaces\\iproviderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|solutionrelative:providers.application\\interfaces\\iproviderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.domain\\entities\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C68EEE-26C3-41E3-ADF7-503EBA9AAD5F}|Providers.Domain\\Providers.Domain.csproj|solutionrelative:providers.domain\\entities\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.application\\validators\\providervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|solutionrelative:providers.application\\validators\\providervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.application\\validators\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF934E5-5868-4048-ABC3-0B67AC4AF9F1}|Providers.Application\\Providers.Application.csproj|solutionrelative:providers.application\\validators\\resultextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988CA9CA-571A-4095-857D-472612C4E87C}|Providers.Infrastructure\\Providers.Infrastructure.csproj|d:\\universidad\\8vo_semestre_ii2025\\arq_software\\microserviceproviders\\providers.infrastructure\\persistences\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988CA9CA-571A-4095-857D-472612C4E87C}|Providers.Infrastructure\\Providers.Infrastructure.csproj|solutionrelative:providers.infrastructure\\persistences\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Application\\Providers.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Providers.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\Providers.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Providers.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\Providers.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ErrorMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Application\\Validators\\ErrorMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ResultExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Application\\Validators\\ResultExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Services\\ProviderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Application\\Services\\ProviderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Interfaces\\lValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Domain\\Interfaces\\lValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ProviderValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Application\\Validators\\ProviderValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Entities\\Provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Domain\\Entities\\Provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Domain\\Interfaces\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Persistences\\DatabaseConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Infrastructure\\Persistences\\DatabaseConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Repository\\ProviderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Infrastructure\\Repository\\ProviderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Interfaces\\IProviderServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Application\\Interfaces\\IProviderServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Controllers\\ProvidersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Api\\Controllers\\ProvidersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Providers.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clients.Domain\\Providers.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Providers.Api",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\Providers.Api.csproj",
+              "RelativeDocumentMoniker": "Providers.Api\\Providers.Api.csproj",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\Providers.Api.csproj",
+              "RelativeToolTip": "Providers.Api\\Providers.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T17:48:49.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Providers.Api\\appsettings.json",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\appsettings.json",
+              "RelativeToolTip": "Providers.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T17:40:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lValidator.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Interfaces\\lValidator.cs",
+              "RelativeDocumentMoniker": "Providers.Domain\\Interfaces\\lValidator.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Interfaces\\lValidator.cs",
+              "RelativeToolTip": "Providers.Domain\\Interfaces\\lValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:55:54.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProviderServices.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Interfaces\\IProviderServices.cs",
+              "RelativeDocumentMoniker": "Providers.Application\\Interfaces\\IProviderServices.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Interfaces\\IProviderServices.cs",
+              "RelativeToolTip": "Providers.Application\\Interfaces\\IProviderServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:55:18.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProviderService.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Services\\ProviderService.cs",
+              "RelativeDocumentMoniker": "Providers.Application\\Services\\ProviderService.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Services\\ProviderService.cs",
+              "RelativeToolTip": "Providers.Application\\Services\\ProviderService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:13:12.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Providers.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Providers.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:12:56.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProvidersController.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\Controllers\\ProvidersController.cs",
+              "RelativeDocumentMoniker": "Providers.Api\\Controllers\\ProvidersController.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\Controllers\\ProvidersController.cs",
+              "RelativeToolTip": "Providers.Api\\Controllers\\ProvidersController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T16:12:44.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProviderValidator.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Validators\\ProviderValidator.cs",
+              "RelativeDocumentMoniker": "Providers.Application\\Validators\\ProviderValidator.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Validators\\ProviderValidator.cs",
+              "RelativeToolTip": "Providers.Application\\Validators\\ProviderValidator.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:12:39.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Validators\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "Providers.Application\\Validators\\ResultExtensions.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Application\\Validators\\ResultExtensions.cs",
+              "RelativeToolTip": "Providers.Application\\Validators\\ResultExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T15:12:38.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Entities\\Provider.cs",
+              "RelativeDocumentMoniker": "Providers.Domain\\Entities\\Provider.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Entities\\Provider.cs",
+              "RelativeToolTip": "Providers.Domain\\Entities\\Provider.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvzEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:28:43.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProviderRepository.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Infrastructure\\Repository\\ProviderRepository.cs",
+              "RelativeDocumentMoniker": "Providers.Infrastructure\\Repository\\ProviderRepository.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Infrastructure\\Repository\\ProviderRepository.cs",
+              "RelativeToolTip": "Providers.Infrastructure\\Repository\\ProviderRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:24:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Providers.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "RelativeToolTip": "Providers.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:22:59.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Providers.Api\\Program.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Api\\Program.cs",
+              "RelativeToolTip": "Providers.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:21:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Providers.Domain.csproj",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Providers.Domain.csproj",
+              "RelativeDocumentMoniker": "Providers.Domain\\Providers.Domain.csproj",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Providers.Domain\\Providers.Domain.csproj",
+              "RelativeToolTip": "Providers.Domain\\Providers.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T06:21:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Providers.Api.csproj",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Providers.Api.csproj",
+              "RelativeDocumentMoniker": "Clients.Api\\Providers.Api.csproj",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Providers.Api.csproj",
+              "RelativeToolTip": "Clients.Api\\Providers.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T04:43:04.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Providers.Api.http",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Providers.Api.http",
+              "RelativeDocumentMoniker": "Clients.Api\\Providers.Api.http",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Providers.Api.http",
+              "RelativeToolTip": "Clients.Api\\Providers.Api.http",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-27T04:41:56.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Clients.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Clients.Api\\appsettings.Development.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T04:42:06.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Clients.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Clients.Api\\Properties\\launchSettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T04:41:29.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Providers.Application.csproj",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj",
+              "RelativeDocumentMoniker": "Clients.Application\\Providers.Application.csproj",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Providers.Application.csproj",
+              "RelativeToolTip": "Clients.Application\\Providers.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-27T04:40:41.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorMapping.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ErrorMapping.cs",
+              "RelativeDocumentMoniker": "Clients.Application\\Validators\\ErrorMapping.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ErrorMapping.cs",
+              "RelativeToolTip": "Clients.Application\\Validators\\ErrorMapping.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:36:21.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResultExtensions.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ResultExtensions.cs",
+              "RelativeDocumentMoniker": "Clients.Application\\Validators\\ResultExtensions.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ResultExtensions.cs",
+              "RelativeToolTip": "Clients.Application\\Validators\\ResultExtensions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T19:35:50.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProviderService.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Services\\ProviderService.cs",
+              "RelativeDocumentMoniker": "Clients.Application\\Services\\ProviderService.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Services\\ProviderService.cs",
+              "RelativeToolTip": "Clients.Application\\Services\\ProviderService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:01:40.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "lValidator.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Interfaces\\lValidator.cs",
+              "RelativeDocumentMoniker": "Clients.Domain\\Interfaces\\lValidator.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Interfaces\\lValidator.cs",
+              "RelativeToolTip": "Clients.Domain\\Interfaces\\lValidator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T22:28:20.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProviderValidator.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ProviderValidator.cs",
+              "RelativeDocumentMoniker": "Clients.Application\\Validators\\ProviderValidator.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Validators\\ProviderValidator.cs",
+              "RelativeToolTip": "Clients.Application\\Validators\\ProviderValidator.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:03:34.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Entities\\Provider.cs",
+              "RelativeDocumentMoniker": "Clients.Domain\\Entities\\Provider.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Entities\\Provider.cs",
+              "RelativeToolTip": "Clients.Domain\\Entities\\Provider.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:56:18.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Clients.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Clients.Domain\\Interfaces\\IRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:58:57.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Clients.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "RelativeToolTip": "Clients.Infrastructure\\Persistences\\DatabaseConnection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:14:41.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProviderRepository.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Repository\\ProviderRepository.cs",
+              "RelativeDocumentMoniker": "Clients.Infrastructure\\Repository\\ProviderRepository.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Infrastructure\\Repository\\ProviderRepository.cs",
+              "RelativeToolTip": "Clients.Infrastructure\\Repository\\ProviderRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:13:30.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Clients.Api\\Program.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Program.cs",
+              "RelativeToolTip": "Clients.Api\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:51:20.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProviderServices.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Interfaces\\IProviderServices.cs",
+              "RelativeDocumentMoniker": "Clients.Application\\Interfaces\\IProviderServices.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Application\\Interfaces\\IProviderServices.cs",
+              "RelativeToolTip": "Clients.Application\\Interfaces\\IProviderServices.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T21:35:10.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Clients.Api\\WeatherForecast.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "Clients.Api\\WeatherForecast.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:30:15.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Clients.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Clients.Api\\Controllers\\WeatherForecastController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T04:29:46.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Clients.Api\\appsettings.json",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\appsettings.json",
+              "RelativeToolTip": "Clients.Api\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T20:42:01.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProvidersController.cs",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Controllers\\ProvidersController.cs",
+              "RelativeDocumentMoniker": "Clients.Api\\Controllers\\ProvidersController.cs",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Api\\Controllers\\ProvidersController.cs",
+              "RelativeToolTip": "Clients.Api\\Controllers\\ProvidersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T20:35:33.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Providers.Domain.csproj",
+              "DocumentMoniker": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Providers.Domain.csproj",
+              "RelativeDocumentMoniker": "Clients.Domain\\Providers.Domain.csproj",
+              "ToolTip": "D:\\Universidad\\8vo_semestre_II2025\\ARQ_SOFTWARE\\MicroServiceProviders\\Clients.Domain\\Providers.Domain.csproj",
+              "RelativeToolTip": "Clients.Domain\\Providers.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T22:06:06.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\bin\Debug\net8.0\Providers.Application.deps.json
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\bin\Debug\net8.0\Providers.Application.dll
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\bin\Debug\net8.0\Providers.Application.pdb
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\bin\Debug\net8.0\Providers.Domain.dll
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\bin\Debug\net8.0\Providers.Domain.pdb
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Providers.Application.csproj.AssemblyReference.cache
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Providers.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Providers.Application.AssemblyInfoInputs.cache
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Providers.Application.AssemblyInfo.cs
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Providers.Application.csproj.CoreCompileInputs.cache
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Provider.7048DE6E.Up2Date
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Providers.Application.dll
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\refint\Providers.Application.dll
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\Providers.Application.pdb
+D:\Universidad\8vo_semestre_II2025\ARQ_SOFTWARE\MicroServiceProviders\Providers.Application\obj\Debug\net8.0\ref\Providers.Application.dll
