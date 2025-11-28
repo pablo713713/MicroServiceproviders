@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Build
+bin/
+obj/
+
+# .NET artifacts
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.db
+
+# NuGet
+packages/
+*.nupkg
