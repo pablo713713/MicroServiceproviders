@@ -9,7 +9,7 @@ namespace Providers.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize] //requiere JWT para todo prueba para ver si se cambio
+    [Authorize] 
     public class ProvidersController : ControllerBase
     {
         private readonly IProviderService _providerService;
